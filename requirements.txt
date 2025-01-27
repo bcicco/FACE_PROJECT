@@ -1,0 +1,5 @@
+pip
+virtual env 
+etc 
+idkkkk
+why wont this update? 
