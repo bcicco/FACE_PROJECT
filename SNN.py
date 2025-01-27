@@ -143,3 +143,5 @@ mat.xlabel('Epochs')
 mat.ylabel('Loss')
 mat.legend()
 mat.show()
+
+print('some random shit')
